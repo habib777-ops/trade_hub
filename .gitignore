@@ -1,7 +1,7 @@
 ﻿.venv/
+venv/
 __pycache__/
 *.pyc
+*.pyd
 data/trading_memory.db
 .env
-update_dash.py
-fix_key.py
